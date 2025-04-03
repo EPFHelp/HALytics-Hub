@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPFHelp/HALytics-Hub.git#main"
+  },
+  "keywords": [
+    "HAL",
+    "HALytics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EPFHelp/HALytics-Hub/issues"
+  },
+  "homepage": "https://github.com/EPFHelp/HALytics-Hub/tree/main#readme",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.1"
+  }
+}
